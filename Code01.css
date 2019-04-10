@@ -1,0 +1,30 @@
+body {
+  font-size: 20px;
+  color: #494343;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+#word_idnumber {
+  padding: 20px;
+  width: 800px;
+  height: 600px;
+}
+
+svg {
+  background-color: floralwhite;
+}
+
+#word_idnumber_x {
+  display: inline-block;
+  font-size: 16px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+
+#word_idnumber_y {
+  display: inline-block;
+  font-size: 16px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
